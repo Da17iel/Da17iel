@@ -4,7 +4,8 @@ You can check out my current and past projects in my [repositories](https://gith
 ## Who am I
 Hello, my name is Daniel Greil.<br>
 I live in Zurich, Switzerland and I am regularly looking for new challenges. <br>
-I am a young developer who has already had some experience in the development of full stack applications using popular JavaScript frameworks.
+I am a young developer who has already had some experience in the development of full stack applications using popular JavaScript frameworks. <br>
+Want to find out more? Here is my Website: [www.danielgreil.ch](https://www.danielgreil.ch/)
 
 ## My current position
 I am currently working at the [MegaCAD-Center (Switzerland) GmbH](https://megacad.ch/) as a Software Developer / Support / IT-Department.
@@ -15,8 +16,3 @@ My main tasks in my role are:
 - IT-Hardware administration of employees
 - Internal IT-Support
 - Simple Backup solutions
-
-<!---
-Da17iel/Da17iel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
